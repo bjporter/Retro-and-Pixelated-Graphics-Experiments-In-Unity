@@ -4,7 +4,7 @@ Retro and Pixalated Graphics Experiments
 1. Pixalted: 3D Scene -> Camera -> Render Texture -> Plane <- Orthogonal Camera
 	- Renter Texture with 8x AA is very nice and smooth. Much more blocky without
 
-
+![screen vid](http://imgur.com/PU9vElm.gif)
 
 
 Credits
